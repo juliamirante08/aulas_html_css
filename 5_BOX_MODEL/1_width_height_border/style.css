@@ -1,0 +1,18 @@
+.caixa-width {
+    border-width: 2px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+
+    width: 200px;
+}
+
+.imagem-width {
+    width: 300px;
+}
+
+.caixa-height {
+    border: 3px dashed #0f0;
+    height: 100px;
+    width: 100px;
+}
